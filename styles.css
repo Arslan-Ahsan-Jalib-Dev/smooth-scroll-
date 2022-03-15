@@ -1,0 +1,25 @@
+.navbar{
+  position: fixed;
+  min-width: 100%;
+  left: 0;
+  z-index: 9999999;
+}
+.common_area{
+    height: 800px;
+}
+.common_area.about_area{
+    background-color: red;
+}
+.common_area.stats_area{
+    background-color: yellow;
+}
+.common_area.testimonials_area{
+    background-color: green;
+}
+.common_area.contact_area {
+    background-color: gray;
+}
+.sec_top h2{
+    color: #000;
+padding-top: 80px;
+}
